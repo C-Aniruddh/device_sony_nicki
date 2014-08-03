@@ -25,7 +25,7 @@
   },
   {
     "remote": "github",
-    "repository": "nolinuxnoparty/android_kernel_sony_msm8x27",
+    "repository": "freexperia/android_kernel_sony_msm8x27",
     "target_path": "kernel/sony/msm8x27",
     "revision": "cm-11.0"
   },
